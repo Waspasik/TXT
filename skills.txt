@@ -1,0 +1,5 @@
+1) Test API via Postman
+2) Coding on SJ
+3) Coding on Python
+4) SQL
+5) Terminal Linux
